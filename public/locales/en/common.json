@@ -1,0 +1,30 @@
+{
+  "menu": {
+    "home": "Home",
+    "analytics": "Analytics",
+    "orders": "Orders",
+    "products": "Products",
+    "finance": "Finance",
+    "customers": "Customers",
+    "account_settings": "Account Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "marketplace": {
+      "title": "Marketplace",
+      "hepsiburada": "Hepsiburada",
+      "n11": "N11",
+      "trendyol": "Trendyol",
+      "details": "Details"
+    }
+  },
+  "common": {
+    "search": "Search",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  }
+}

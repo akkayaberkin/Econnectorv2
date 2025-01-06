@@ -1,0 +1,30 @@
+{
+  "menu": {
+    "home": "Ana Sayfa",
+    "analytics": "Analitik",
+    "orders": "Siparişler",
+    "products": "Ürünler",
+    "finance": "Finans",
+    "customers": "Müşteriler",
+    "account_settings": "Hesap Ayarları"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Hoşgeldiniz",
+    "marketplace": {
+      "title": "Pazar Yeri",
+      "hepsiburada": "Hepsiburada",
+      "n11": "N11",
+      "trendyol": "Trendyol",
+      "details": "Detaylar"
+    }
+  },
+  "common": {
+    "search": "Ara",
+    "dark_mode": "Karanlık Mod",
+    "light_mode": "Aydınlık Mod",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "logout": "Çıkış"
+  }
+}
